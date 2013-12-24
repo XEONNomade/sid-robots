@@ -3,8 +3,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>Crawler</groupId>
-	<artifactId>robots</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>sid-robots</artifactId>
+	<version>v0.0.2</version>
 	<packaging>jar</packaging>
 
 	<name>robots</name>

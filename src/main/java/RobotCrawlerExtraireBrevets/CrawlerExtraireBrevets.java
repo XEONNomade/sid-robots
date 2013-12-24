@@ -24,7 +24,7 @@ public class CrawlerExtraireBrevets {
 	public static void CreerBrevet(int k ,String html){
 		try{
 			 
-	         String fichier = "D:\\SynergieStage\\downloads\\Dropbox\\LPEE\\robots\\src\\main\\java\\RobotCrawlerExtraireBrevets\\brevets\\brevet"+k+".html";
+	         String fichier = "C:\\wamp\\www\\Brevet\\brevet"+k+".html";
 	         PrintWriter fich;
 	         fich = new PrintWriter(new BufferedWriter(new FileWriter(fichier, true))); 
 	         fich.println(html);
